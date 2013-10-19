@@ -1,0 +1,7 @@
+[user]
+	email = jeff.janies@gmail.com
+	name = Jeff Janies
+[core]
+	editor = vim
+[credential]
+	helper = cache
