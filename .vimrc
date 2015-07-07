@@ -8,4 +8,5 @@ autocmd BufWritePre *.py :%s/\s\+$//e
 autocmd BufWritePre *.md :%s/\s\+$//e
 autocmd BufWritePre *.html :%s/\s\+$//e
 autocmd BufWritePre *.js :%s/\s\+$//e
+highlight ColorColumn ctermbg=8
 set colorcolumn=80
